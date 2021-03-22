@@ -1,5 +1,5 @@
 NextComponent:
-  Component: nextjs
+  Component: nextjs-alibaba-component
   Provider: alibaba
   Extends:
     deploy:
